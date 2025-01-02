@@ -40,7 +40,7 @@ Feel free to contribute! Only open-source challenges please!
 | :estonia: | [Klaus](https://klausapp.com) | Golang, gRPC, Kubernetes | [Code →](https://github.com/klausapp/softwareengineer-test-task)
 | :us: | [FigureTechnologies](https://www.figure.com) | Golang, Kubernetes | [Code →](https://github.com/FigureTechnologies/devops-skills-assessment)
 | :us: | [Gr4vy](https://github.com/gr4vy) | Automation | [Code →](https://github.com/gr4vy/platform-challenge)
-
+| :uk: | [MoonPay](https://www.moonpay.com) | AWS, Terraform, CloudFormation | [Code →](https://github.com/moonpay/platform-challenge)
 ## Inspiration
 
 Inspired on [CollabCodeTech](https://github.com/CollabCodeTech)'s [backend-challenges](https://github.com/CollabCodeTech/backend-challenges). Kudos!
