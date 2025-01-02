@@ -14,8 +14,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Fender Digital]( http://www.fender.com) | Any Language/Framework | [Code →](https://github.com/fenderdigital/platform-exercise)
 | :us: | [Lana](https://www.ezplus.com/) | Any Language/Framework, Docker | [Code →](https://github.com/lana/sre-challenge)
 | :us: | [Cloudfare](https://www.cloudflare.com/) | C/C++/Go/Rust | [Code →](https://github.com/cloudflare-hiring/cloudflare-2020-systems-engineering-assignment)
-| :france: | [
-Aircall](https://aircall.io) | Javascript, Docker | [Code →](https://github.com/aircall/sre-hiring-test)
+| :france: | [Aircall](https://aircall.io) | Javascript, Docker | [Code →](https://github.com/aircall/sre-hiring-test)
 | :kenya: | [AfricasTalkingTalent](https://africastalking.com/) | Any Language | [Code →](https://github.com/AfricasTalkingTalent/InfraCodeChallengeSeptember2018)
 | :canada: | [Paytm Labs](http://paytmlabs.com/) | AWS, VMWare | [Code →](https://github.com/PaytmLabs/SREChallenge)
 | :canada: | [Paytm Labs](http://paytmlabs.com/) | System Design | [Code →](https://github.com/PaytmLabs/PLAT-ENG-CHALLENGE)
@@ -48,4 +47,4 @@ Inspired on [CollabCodeTech](https://github.com/CollabCodeTech)'s [backend-chall
 
 ## License
 
-MIT © Salaa
+[MIT](./LICENSE) © Salaa
