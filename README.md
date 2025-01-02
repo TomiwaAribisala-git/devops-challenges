@@ -41,6 +41,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [FigureTechnologies](https://www.figure.com) | Golang, Kubernetes | [Code →](https://github.com/FigureTechnologies/devops-skills-assessment)
 | :us: | [Gr4vy](https://github.com/gr4vy) | Automation | [Code →](https://github.com/gr4vy/platform-challenge)
 | :uk: | [MoonPay](https://www.moonpay.com) | AWS, Terraform, CloudFormation | [Code →](https://github.com/moonpay/platform-challenge)
+| :us: | [Yassir](https://yassir.com) | Terraform, Typescript | [Code →](https://github.com/YAtechnologies/platform-challenge)
 ## Inspiration
 
 Inspired on [CollabCodeTech](https://github.com/CollabCodeTech)'s [backend-challenges](https://github.com/CollabCodeTech/backend-challenges). Kudos!
