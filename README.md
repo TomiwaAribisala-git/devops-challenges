@@ -27,7 +27,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Fly.io](https://fly.io/) | Debugging, Scripting | [Code →](https://github.com/fly-hiring/infraops-challenge)
 | :us: | [Ambulnz]( http://www.ambulnz.com) | Node.js, Docker, AWS | [Code →](https://github.com/AmbulnzLLC/devops-challenge)
 | :uk: | [Datapane](http://www.datapane.com) | Linux, Python, Docker | [Code →](https://github.com/datapane/infra-hiring-challenge)
-| :ge: | [mobimeo](https://mobimeo.com) | Kubernetes, Helm, Terraform | [Code →](https://github.com/mobimeo/infra-take-home-challenge)
+| :germany: | [mobimeo](https://mobimeo.com) | Kubernetes, Helm, Terraform | [Code →](https://github.com/mobimeo/infra-take-home-challenge)
 | :brazil: | [HurbCom](https://www.hurb.com) | Javascript, Golang, Kubernetes, Docker, Redis, MySQL | [Code →](https://github.com/hurbcom/challenge-delta)
 | :australia: | [Isentia]( https://www.isentia.com/) | Ansible, Hugo, Git, Python/Golang/Shell | [Code →](https://github.com/Isentia/Coding-Challenge/blob/master/DevOps-Coding-Challenge.md)
 | :brazil: | [PicPay]( https://www.picpay.com) | Golang, Python, Docker | [Code →](https://github.com/PicPay/picpay-jr-devops-challenge)
